@@ -1,7 +1,6 @@
 ##Olá, eu sou o Paulo Henrique 👋
 
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
 
 <picture>
 <source 
