@@ -1,30 +1,45 @@
-Olá, eu sou o Paulo Henrique 👋
+<h1 align="center">Olá, eu sou Paulo Henrique 👋</h1>
 
-- 🌱 Estudando HTML, CSS e JavaScript
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia;Sempre+aprendendo+novas+skills" alt="Typing SVG" />
+</p>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=PauloHenriDev&show_icons=true&theme=algolia"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=PauloHenriDev&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=PauloHenriDev&show_icons=true" />
-</picture>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+## 🚀 Sobre mim
+
+- 🎯 Apaixonado por desenvolvimento web, mobile e soluções criativas.
+- 🛠️ Trabalhando atualmente com: **[Suas Tecnologias Principais]**.
+- 👨‍💻 Sempre buscando novos desafios e projetos.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- Adicione mais conforme suas skills -->
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/paulo_henrique_rattes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatopaulohenriquerattes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-azevedo-rattes-b8b678266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+---
+
+## 🌐 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/SEUNUMERO" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <!-- Adicione outros contatos se quiser -->
 </div>
